@@ -1,3 +1,9 @@
 main() {
 system.out.println("Привет мир!!!");
-}
+
+system.out.println("Привет мир!!!");
+system.out.println("Привет мир!!!");
+system.out.println("Привет мир!!!");
+system.out.println("Привет мир!!!");
+system.out.println("Привет мир!!!");
+system.out.println("Привет мир!!!");}
